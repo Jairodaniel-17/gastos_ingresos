@@ -1,0 +1,147 @@
+{
+    "Ingreso": [
+        {
+            "nombre_categoria": "Salario",
+            "subcategorias": [
+                "Sueldo mensual",
+                "Bonificaciones"
+            ]
+        },
+        {
+            "nombre_categoria": "Freelance/Trabajos Extra",
+            "subcategorias": [
+                "Proyectos",
+                "Consultor\u00c3\u00adas"
+            ]
+        },
+        {
+            "nombre_categoria": "Inversiones",
+            "subcategorias": [
+                "Rendimientos financieros",
+                "Dividendos"
+            ]
+        },
+        {
+            "nombre_categoria": "Regalos/Donaciones",
+            "subcategorias": [
+                "Regalos en efectivo",
+                "Apoyo familiar"
+            ]
+        },
+        {
+            "nombre_categoria": "Ventas",
+            "subcategorias": [
+                "Venta de bienes usados",
+                "Venta de productos propios"
+            ]
+        },
+        {
+            "nombre_categoria": "Reembolsos",
+            "subcategorias": [
+                "Deudas pagadas",
+                "Reembolso por compras"
+            ]
+        }
+    ],
+    "Gasto": [
+        {
+            "nombre_categoria": "Alimentos",
+            "subcategorias": [
+                "Supermercado",
+                "Restaurantes",
+                "Snacks",
+                "Delivery"
+            ]
+        },
+        {
+            "nombre_categoria": "Vivienda",
+            "subcategorias": [
+                "Alquiler",
+                "Servicios (Luz, Agua, Gas)",
+                "Mantenimiento",
+                "Internet y Cable"
+            ]
+        },
+        {
+            "nombre_categoria": "Transporte",
+            "subcategorias": [
+                "Combustible",
+                "Transporte p\u00c3\u00bablico",
+                "Taxi/Apps de movilidad",
+                "Mantenimiento del veh\u00c3\u00adculo"
+            ]
+        },
+        {
+            "nombre_categoria": "Salud",
+            "subcategorias": [
+                "Consultas m\u00c3\u00a9dicas",
+                "Medicamentos",
+                "Seguro de salud",
+                "Reparaci\u00c3\u00b3n de lentes",
+                "Nuevos lentes"
+            ]
+        },
+        {
+            "nombre_categoria": "Entretenimiento",
+            "subcategorias": [
+                "Cine",
+                "Suscripciones (Netflix, Spotify, etc.)",
+                "Salidas sociales"
+            ]
+        },
+        {
+            "nombre_categoria": "Educaci\u00c3\u00b3n",
+            "subcategorias": [
+                "Cursos",
+                "Materiales de estudio",
+                "Libros"
+            ]
+        },
+        {
+            "nombre_categoria": "Ropa y Accesorios",
+            "subcategorias": [
+                "Ropa casual",
+                "Calzado",
+                "Accesorios"
+            ]
+        },
+        {
+            "nombre_categoria": "Mascotas",
+            "subcategorias": [
+                "Alimentos",
+                "Veterinario",
+                "Juguetes"
+            ]
+        },
+        {
+            "nombre_categoria": "Hogar",
+            "subcategorias": [
+                "Electrodom\u00c3\u00a9sticos",
+                "Muebles",
+                "Art\u00c3\u00adculos de limpieza"
+            ]
+        },
+        {
+            "nombre_categoria": "Miscel\u00c3\u00a1neos",
+            "subcategorias": [
+                "Regalos",
+                "Donaciones",
+                "Imprevistos"
+            ]
+        },
+        {
+            "nombre_categoria": "Computadora",
+            "subcategorias": []
+        }
+    ],
+    "Usuarios": [
+        {
+            "id_usuario": 1,
+            "nombre": "Jairo"
+        },
+        {
+            "id_usuario": 2,
+            "nombre": "Diana"
+        }
+    ]
+}
