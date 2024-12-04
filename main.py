@@ -9,6 +9,13 @@ from dotenv import load_dotenv
 from pydantic import BaseModel
 from typing import List
 
+st.set_page_config(
+    page_title="Gestión de Ingresos y Gastos",
+    layout="centered",
+    initial_sidebar_state="collapsed",
+    page_icon="💰",
+)
+
 # Cargar variables de entorno
 load_dotenv()
 
