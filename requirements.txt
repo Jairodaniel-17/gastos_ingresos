@@ -2,3 +2,4 @@ pandas
 python-dotenv
 sqlalchemy
 pymysql
+pydantic
